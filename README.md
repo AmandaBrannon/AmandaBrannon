@@ -1,8 +1,8 @@
-Hey, I'm Amanda! (she/her) 👋
+# Hey, I'm Amanda! (she/her) 👋
 
 I'm a Software Developer born in Niceville 🔥 who's currently studying at the University of Florida 🐊
 
-I'm pursuing a undergraduate CS degree and passionate about:
+I'm pursuing a undergraduate CS degree and a Math minor and I'm passionate about:
 
 🎨 Art
 🏋️ Working Out
