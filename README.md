@@ -4,11 +4,9 @@ I'm a Software Developer born in Niceville 🔥 who's currently studying at the 
 
 I'm pursuing a undergraduate CS degree and a Math minor and I'm passionate about:
 
-🎨 Art
-
-🏋️ Working Out
-
-🎮 Gaming
+-🎨 Art
+-🏋️ Working Out
+-🎮 Gaming
 
 I’m currently working on 🔭 ...
 
